@@ -1,0 +1,1818 @@
+Building the similarity matrix using SSIM algorithm for 198 images
+sm.shape[0] here :  198    198 
+
+Done - total calculation time: 1087 seconds
+
+Performance metrics for Spectral Clustering
+Number of clusters: 39
+Silhouette coefficient: -0.52
+Completeness score: -0.00
+Homogeneity score: 1.00
+
+Performance metrics for Affinity Propagation Clustering
+Number of clusters: 43
+Silhouette coefficient: -0.57
+Completeness score: -0.00
+Homogeneity score: 1.00
+
+Selected Spectral Clustering for the labeling results
+printing the final sc.labels_ [36 36  3 12  9  0  5 38 18  8 17  9 25 13 34  7 17 29  4 37  1 20 25 23 28
+ 36 13  9 24 21  9 24  5 19  8  3 25 32 10 38 13  5  9  5 20  5  1 38 29  1
+ 28 12 13 35 11 19 11  0 35  4 35  2 14 24  1 24 27 26  9 17 17 30 12 25 15
+ 22  9 32  3 15  2 24 12 11 10 28  1 19 36  6 25 36 16  5 18 31  9 11 22 34
+  9  3 16 26 34 36 10 10  5  9 36 24  7 24 37 27 18  9 12  6  8  3 15 17 16
+  3 27  3 23 36  9  9 22  0 30  0  9  5 33 22 19  5  2 23 14  2  5  4  3 13
+  4 29 36 28 10 19  4  5 33 14  5 20 29 31 22 16 21 25 25 31 35  7 15 25  0
+ 14  9 36 16 16 35  8  1 29 38  9  9  6  6  3  9 24 26  4 35 36  5  2]
+
+ --- Images from cluster #0 ---
+s11_2.pgm
+s11_3.pgm
+s11_1.pgm
+s11_5.pgm
+s28_4.pgm
+
+ --- Images from cluster #1 ---
+s38_4.pgm
+s40_5.pgm
+s23_1.pgm
+s38_1.pgm
+s4_1.pgm
+s4_3.pgm
+
+ --- Images from cluster #2 ---
+s18_2.pgm
+s18_1.pgm
+s8_1.pgm
+s18_5.pgm
+s18_4.pgm
+
+ --- Images from cluster #3 ---
+s23_5.pgm
+s6_3.pgm
+s6_1.pgm
+s31_1.pgm
+s23_4.pgm
+s6_4.pgm
+s6_5.pgm
+s6_2.pgm
+s7_4.pgm
+
+ --- Images from cluster #4 ---
+s1_5.pgm
+s32_1.pgm
+s1_2.pgm
+s8_4.pgm
+s37_2.pgm
+s37_4.pgm
+
+ --- Images from cluster #5 ---
+s35_4.pgm
+s35_1.pgm
+s26_1.pgm
+s5_1.pgm
+s21_2.pgm
+s37_5.pgm
+s26_3.pgm
+s5_3.pgm
+s26_2.pgm
+s30_5.pgm
+s21_1.pgm
+s5_2.pgm
+s30_4.pgm
+
+ --- Images from cluster #6 ---
+s31_5.pgm
+s31_4.pgm
+s31_3.pgm
+s31_2.pgm
+
+ --- Images from cluster #7 ---
+s17_5.pgm
+s17_1.pgm
+s17_2.pgm
+
+ --- Images from cluster #8 ---
+s16_4.pgm
+s16_1.pgm
+s16_5.pgm
+s16_2.pgm
+
+ --- Images from cluster #9 ---
+s40_4.pgm
+s1_1.pgm
+s13_3.pgm
+s16_3.pgm
+s1_4.pgm
+s3_4.pgm
+s25_5.pgm
+s24_3.pgm
+s1_3.pgm
+s13_4.pgm
+s5_5.pgm
+s35_5.pgm
+s35_3.pgm
+s3_5.pgm
+s8_2.pgm
+s5_4.pgm
+s18_3.pgm
+s36_2.pgm
+
+ --- Images from cluster #10 ---
+s22_2.pgm
+s22_1.pgm
+s22_3.pgm
+s22_5.pgm
+s22_4.pgm
+
+ --- Images from cluster #11 ---
+s7_3.pgm
+s7_2.pgm
+s7_1.pgm
+s7_5.pgm
+
+ --- Images from cluster #12 ---
+s20_4.pgm
+s20_5.pgm
+s20_2.pgm
+s20_3.pgm
+s20_1.pgm
+
+ --- Images from cluster #13 ---
+s10_3.pgm
+s10_5.pgm
+s10_1.pgm
+s10_4.pgm
+s10_2.pgm
+
+ --- Images from cluster #14 ---
+s27_2.pgm
+s27_1.pgm
+s27_3.pgm
+s27_4.pgm
+
+ --- Images from cluster #15 ---
+s32_5.pgm
+s32_3.pgm
+s32_2.pgm
+s32_4.pgm
+
+ --- Images from cluster #16 ---
+s9_4.pgm
+s23_3.pgm
+s9_3.pgm
+s9_2.pgm
+s9_1.pgm
+s9_5.pgm
+
+ --- Images from cluster #17 ---
+s2_5.pgm
+s2_2.pgm
+s2_1.pgm
+s2_4.pgm
+s2_3.pgm
+
+ --- Images from cluster #18 ---
+s38_3.pgm
+s38_5.pgm
+s38_2.pgm
+
+ --- Images from cluster #19 ---
+s19_3.pgm
+s19_2.pgm
+s19_4.pgm
+s19_1.pgm
+s19_5.pgm
+
+ --- Images from cluster #20 ---
+s14_5.pgm
+s14_1.pgm
+s14_4.pgm
+
+ --- Images from cluster #21 ---
+s14_2.pgm
+s14_3.pgm
+
+ --- Images from cluster #22 ---
+s33_2.pgm
+s33_1.pgm
+s33_5.pgm
+s33_3.pgm
+s39_5.pgm
+
+ --- Images from cluster #23 ---
+s15_4.pgm
+s15_1.pgm
+s15_3.pgm
+
+ --- Images from cluster #24 ---
+s21_3.pgm
+s40_1.pgm
+s36_5.pgm
+s21_4.pgm
+s21_5.pgm
+s40_3.pgm
+s4_4.pgm
+s40_2.pgm
+
+ --- Images from cluster #25 ---
+s3_2.pgm
+s3_3.pgm
+s4_5.pgm
+s4_2.pgm
+s26_4.pgm
+s26_5.pgm
+s23_2.pgm
+s25_2.pgm
+
+ --- Images from cluster #26 ---
+s34_3.pgm
+s34_2.pgm
+s34_1.pgm
+
+ --- Images from cluster #27 ---
+s36_3.pgm
+s36_1.pgm
+s36_4.pgm
+
+ --- Images from cluster #28 ---
+s24_4.pgm
+s24_1.pgm
+s24_2.pgm
+s24_5.pgm
+
+ --- Images from cluster #29 ---
+s12_2.pgm
+s12_1.pgm
+s12_3.pgm
+s12_4.pgm
+s12_5.pgm
+
+ --- Images from cluster #30 ---
+s34_4.pgm
+s34_5.pgm
+
+ --- Images from cluster #31 ---
+s11_4.pgm
+s8_3.pgm
+s8_5.pgm
+
+ --- Images from cluster #32 ---
+s37_1.pgm
+s37_3.pgm
+
+ --- Images from cluster #33 ---
+s17_4.pgm
+s17_3.pgm
+
+ --- Images from cluster #34 ---
+s29_2.pgm
+s29_4.pgm
+s29_1.pgm
+
+ --- Images from cluster #35 ---
+s3_1.pgm
+s30_2.pgm
+s30_1.pgm
+s25_1.pgm
+s25_3.pgm
+s30_3.pgm
+
+ --- Images from cluster #36 ---
+s13_5.pgm
+s29_3.pgm
+s13_1.pgm
+s13_2.pgm
+s28_3.pgm
+s15_5.pgm
+s27_5.pgm
+s28_1.pgm
+s15_2.pgm
+s29_5.pgm
+s25_4.pgm
+
+ --- Images from cluster #37 ---
+s28_5.pgm
+s28_2.pgm
+
+ --- Images from cluster #38 ---
+s39_4.pgm
+s39_2.pgm
+s39_3.pgm
+s39_1.pgm
+Building the similarity matrix using SURF algorithm for 198 images
+sm.shape[0] here :  198    198 
+
+Done - total calculation time: 4368 seconds
+
+Performance metrics for Spectral Clustering
+Number of clusters: 39
+Silhouette coefficient: -0.41
+Completeness score: -0.00
+Homogeneity score: 1.00
+
+Performance metrics for Affinity Propagation Clustering
+Number of clusters: 29
+Silhouette coefficient: -0.29
+Completeness score: -0.00
+Homogeneity score: 1.00
+
+Selected Affinity Propagation for the labeling results
+printing the final sc.labels_ [16  4 30 15 33 22 25 12  9 22 16  1 16 11  4 35 16  6 16 22 16 25  4 15 31
+ 15 22 31 31 22 22 28 16 31 31 25 38  3 16  5  4  0 16 19 31 25  1 16  8 25
+ 37  1 22 31 27  2 22 22 31  7 15 31 31  2 22 22  2 25 20 16  2  9 16 31 22
+ 22 17 16  6  3  2 16 31 22 21 31 31 22  6 18  2 25  3  2  0  2  1  2  6 13
+  2 31 16 32  6 15 22 34 31 36  1 22 26 25 16 22  0 24 16  1 25 31 16 25  6
+  6 25 31 15  3 15 25  3  4  3  9 22 16 22 16  3 29 16 15 31  9  1 25 10 22
+ 15  1  6  2 31  4 15 16 15 22 16  3  6  6 16  6  3  3 16 16  1 16 14  4 31
+ 22 16  0  1  0 25 25  1  9 22  9 25 23 31  2 31  6 25 15 25 31  1  1]
+type =  <class 'numpy.ndarray'>
+
+ --- Images from cluster #0 ---
+s26_1.pgm
+s38_5.pgm
+s38_2.pgm
+s29_5.pgm
+s9_5.pgm
+
+ --- Images from cluster #1 ---
+s1_1.pgm
+s40_5.pgm
+s20_5.pgm
+s24_3.pgm
+s27_5.pgm
+s31_4.pgm
+s30_5.pgm
+s12_3.pgm
+s25_1.pgm
+s9_1.pgm
+s4_3.pgm
+s30_4.pgm
+s18_4.pgm
+
+ --- Images from cluster #2 ---
+s19_2.pgm
+s36_5.pgm
+s36_3.pgm
+s2_4.pgm
+s18_1.pgm
+s26_4.pgm
+s37_5.pgm
+s11_4.pgm
+s7_5.pgm
+s1_3.pgm
+s24_5.pgm
+s7_4.pgm
+
+ --- Images from cluster #3 ---
+s37_1.pgm
+s32_3.pgm
+s9_4.pgm
+s28_1.pgm
+s33_5.pgm
+s34_5.pgm
+s19_1.pgm
+s14_4.pgm
+s14_3.pgm
+s26_5.pgm
+
+ --- Images from cluster #4 ---
+s29_3.pgm
+s29_2.pgm
+s3_3.pgm
+s10_1.pgm
+s11_1.pgm
+s19_5.pgm
+s25_2.pgm
+
+ --- Images from cluster #5 ---
+s39_2.pgm
+
+ --- Images from cluster #6 ---
+s12_2.pgm
+s6_1.pgm
+s13_2.pgm
+s33_1.pgm
+s29_1.pgm
+s9_3.pgm
+s6_4.pgm
+s15_2.pgm
+s12_4.pgm
+s8_3.pgm
+s9_2.pgm
+s40_2.pgm
+
+ --- Images from cluster #7 ---
+s32_1.pgm
+
+ --- Images from cluster #8 ---
+s12_1.pgm
+
+ --- Images from cluster #9 ---
+s38_3.pgm
+s34_4.pgm
+s11_5.pgm
+s18_5.pgm
+s12_5.pgm
+s5_4.pgm
+
+ --- Images from cluster #10 ---
+s6_2.pgm
+
+ --- Images from cluster #11 ---
+s10_3.pgm
+
+ --- Images from cluster #12 ---
+s39_4.pgm
+
+ --- Images from cluster #13 ---
+s29_4.pgm
+
+ --- Images from cluster #14 ---
+s32_4.pgm
+
+ --- Images from cluster #15 ---
+s20_4.pgm
+s15_4.pgm
+s13_1.pgm
+s30_1.pgm
+s15_5.pgm
+s15_1.pgm
+s35_5.pgm
+s15_3.pgm
+s8_4.pgm
+s37_2.pgm
+s17_3.pgm
+s37_4.pgm
+
+ --- Images from cluster #16 ---
+s13_5.pgm
+s2_5.pgm
+s3_2.pgm
+s2_2.pgm
+s1_5.pgm
+s38_4.pgm
+s35_1.pgm
+s22_2.pgm
+s1_4.pgm
+s39_3.pgm
+s2_1.pgm
+s20_2.pgm
+s37_3.pgm
+s21_5.pgm
+s23_3.pgm
+s28_2.pgm
+s20_1.pgm
+s32_2.pgm
+s5_3.pgm
+s33_3.pgm
+s8_1.pgm
+s21_1.pgm
+s5_2.pgm
+s39_5.pgm
+s23_2.pgm
+s8_5.pgm
+s17_2.pgm
+s8_2.pgm
+
+ --- Images from cluster #17 ---
+s25_5.pgm
+
+ --- Images from cluster #18 ---
+s31_5.pgm
+
+ --- Images from cluster #19 ---
+s5_1.pgm
+
+ --- Images from cluster #20 ---
+s3_4.pgm
+
+ --- Images from cluster #21 ---
+s22_1.pgm
+
+ --- Images from cluster #22 ---
+s11_2.pgm
+s16_4.pgm
+s28_5.pgm
+s10_5.pgm
+s14_2.pgm
+s16_3.pgm
+s10_4.pgm
+s7_2.pgm
+s11_3.pgm
+s38_1.pgm
+s21_4.pgm
+s32_5.pgm
+s33_2.pgm
+s7_1.pgm
+s19_4.pgm
+s22_3.pgm
+s40_3.pgm
+s36_1.pgm
+s3_5.pgm
+s17_4.pgm
+s10_2.pgm
+s27_3.pgm
+s27_4.pgm
+s39_1.pgm
+
+ --- Images from cluster #23 ---
+s31_3.pgm
+
+ --- Images from cluster #24 ---
+s5_5.pgm
+
+ --- Images from cluster #25 ---
+s35_4.pgm
+s14_5.pgm
+s6_3.pgm
+s21_2.pgm
+s23_1.pgm
+s34_3.pgm
+s28_3.pgm
+s4_4.pgm
+s16_5.pgm
+s2_3.pgm
+s36_4.pgm
+s35_3.pgm
+s1_2.pgm
+s25_3.pgm
+s16_2.pgm
+s18_3.pgm
+s34_1.pgm
+s30_3.pgm
+
+ --- Images from cluster #26 ---
+s17_1.pgm
+
+ --- Images from cluster #27 ---
+s7_3.pgm
+
+ --- Images from cluster #28 ---
+s40_1.pgm
+
+ --- Images from cluster #29 ---
+s26_2.pgm
+
+ --- Images from cluster #30 ---
+s23_5.pgm
+
+ --- Images from cluster #31 ---
+s24_4.pgm
+s13_3.pgm
+s21_3.pgm
+s19_3.pgm
+s16_1.pgm
+s14_1.pgm
+s3_1.pgm
+s30_2.pgm
+s18_2.pgm
+s27_2.pgm
+s4_2.pgm
+s20_3.pgm
+s24_2.pgm
+s4_1.pgm
+s31_1.pgm
+s26_3.pgm
+s23_4.pgm
+s6_5.pgm
+s27_1.pgm
+s22_4.pgm
+s28_4.pgm
+s31_2.pgm
+s36_2.pgm
+s25_4.pgm
+
+ --- Images from cluster #32 ---
+s34_2.pgm
+
+ --- Images from cluster #33 ---
+s40_4.pgm
+
+ --- Images from cluster #34 ---
+s22_5.pgm
+
+ --- Images from cluster #35 ---
+s17_5.pgm
+
+ --- Images from cluster #36 ---
+s13_4.pgm
+
+ --- Images from cluster #37 ---
+s24_1.pgm
+
+ --- Images from cluster #38 ---
+s4_5.pgm
+Building the similarity matrix using ORB algorithm for 198 images
+sm.shape[0] here :  198    198 
+
+Done - total calculation time: 276 seconds
+
+Performance metrics for Spectral Clustering
+Number of clusters: 39
+Silhouette coefficient: -0.93
+Completeness score: -0.00
+Homogeneity score: 1.00
+
+Performance metrics for Affinity Propagation Clustering
+Number of clusters: 17
+Silhouette coefficient: -0.76
+Completeness score: -0.00
+Homogeneity score: 1.00
+
+Selected Affinity Propagation for the labeling results
+printing the final sc.labels_ [14 32 32 14 14 21 15 32 22 15 14 14 26  5 32 13  2 15 28 32 15 14 26 32 13
+  8  2 14 14 14 15 14 15 26 12 32 15 32 30 14  2 26 14 14 15 14  2 14 26 32
+ 13 10  2 26  7  7 10 15 23 32 32 36 15  6  8 23 15 11 15 32 11 15  2  3 15
+ 27  2  7 32 32 23 36 28 13  3  7 32 17 15 38 15  4 32  7  3 33  5  7 37 22
+ 13 32  7  3  7  5  3 32 22 15 25 22 32 20 32  5 17  7 32 38 32  3 32 32 15
+ 34 24 17 32 10 32 32  2 28  8 32 15 15  6 22  7 20  5  1 25 29 34 32 35 31
+ 11 32  8 10 32 17 32 18  6 10  5 32 18 27  5 18 22 25 28  9 15 35  3 27 16
+ 16  5 32 32 18  9 32  8 27 32  0 32 38 36 16 19 32 16 35  8 19  0 28]
+type =  <class 'numpy.ndarray'>
+
+ --- Images from cluster #0 ---
+s5_4.pgm
+s30_4.pgm
+
+ --- Images from cluster #1 ---
+s15_3.pgm
+
+ --- Images from cluster #2 ---
+s2_2.pgm
+s10_5.pgm
+s10_1.pgm
+s40_5.pgm
+s10_4.pgm
+s20_2.pgm
+s25_5.pgm
+s33_5.pgm
+
+ --- Images from cluster #3 ---
+s4_2.pgm
+s22_1.pgm
+s38_5.pgm
+s34_2.pgm
+s22_3.pgm
+s23_4.pgm
+s32_4.pgm
+
+ --- Images from cluster #4 ---
+s28_3.pgm
+
+ --- Images from cluster #5 ---
+s10_3.pgm
+s24_3.pgm
+s15_5.pgm
+s36_1.pgm
+s8_1.pgm
+s5_2.pgm
+s39_5.pgm
+s8_2.pgm
+
+ --- Images from cluster #6 ---
+s36_5.pgm
+s17_4.pgm
+s17_3.pgm
+
+ --- Images from cluster #7 ---
+s7_3.pgm
+s19_2.pgm
+s37_3.pgm
+s24_2.pgm
+s37_5.pgm
+s7_5.pgm
+s23_3.pgm
+s29_1.pgm
+s5_5.pgm
+s19_1.pgm
+
+ --- Images from cluster #8 ---
+s13_1.pgm
+s38_1.pgm
+s34_5.pgm
+s15_2.pgm
+s4_3.pgm
+s30_3.pgm
+
+ --- Images from cluster #9 ---
+s8_5.pgm
+s25_3.pgm
+
+ --- Images from cluster #10 ---
+s20_5.pgm
+s7_2.pgm
+s28_1.pgm
+s24_5.pgm
+s27_3.pgm
+
+ --- Images from cluster #11 ---
+s34_3.pgm
+s2_4.pgm
+s8_4.pgm
+
+ --- Images from cluster #12 ---
+s16_1.pgm
+
+ --- Images from cluster #13 ---
+s17_5.pgm
+s24_4.pgm
+s24_1.pgm
+s7_1.pgm
+s1_3.pgm
+
+ --- Images from cluster #14 ---
+s13_5.pgm
+s20_4.pgm
+s40_4.pgm
+s2_5.pgm
+s1_1.pgm
+s14_5.pgm
+s13_3.pgm
+s21_3.pgm
+s14_2.pgm
+s40_1.pgm
+s39_2.pgm
+s1_4.pgm
+s5_1.pgm
+s21_2.pgm
+s39_3.pgm
+
+ --- Images from cluster #15 ---
+s35_4.pgm
+s16_4.pgm
+s12_2.pgm
+s38_4.pgm
+s16_3.pgm
+s35_1.pgm
+s4_5.pgm
+s14_1.pgm
+s11_3.pgm
+s27_2.pgm
+s36_3.pgm
+s3_4.pgm
+s34_4.pgm
+s32_5.pgm
+s13_2.pgm
+s26_4.pgm
+s13_4.pgm
+s9_3.pgm
+s3_5.pgm
+s5_3.pgm
+s25_1.pgm
+
+ --- Images from cluster #16 ---
+s28_4.pgm
+s27_4.pgm
+s7_4.pgm
+s34_1.pgm
+
+ --- Images from cluster #17 ---
+s19_4.pgm
+s38_2.pgm
+s6_5.pgm
+s19_5.pgm
+
+ --- Images from cluster #18 ---
+s21_1.pgm
+s12_4.pgm
+s9_2.pgm
+s9_5.pgm
+
+ --- Images from cluster #19 ---
+s36_2.pgm
+s25_4.pgm
+
+ --- Images from cluster #20 ---
+s4_4.pgm
+s26_2.pgm
+
+ --- Images from cluster #21 ---
+s11_2.pgm
+
+ --- Images from cluster #22 ---
+s38_3.pgm
+s29_4.pgm
+s26_3.pgm
+s40_3.pgm
+s33_3.pgm
+s14_3.pgm
+
+ --- Images from cluster #23 ---
+s30_2.pgm
+s21_4.pgm
+s18_1.pgm
+
+ --- Images from cluster #24 ---
+s36_4.pgm
+
+ --- Images from cluster #25 ---
+s27_5.pgm
+s27_1.pgm
+s26_5.pgm
+
+ --- Images from cluster #26 ---
+s3_2.pgm
+s3_3.pgm
+s19_3.pgm
+s26_1.pgm
+s12_1.pgm
+s3_1.pgm
+
+ --- Images from cluster #27 ---
+s33_2.pgm
+s8_3.pgm
+s25_2.pgm
+s12_5.pgm
+
+ --- Images from cluster #28 ---
+s1_5.pgm
+s20_3.pgm
+s11_1.pgm
+s23_2.pgm
+s18_4.pgm
+
+ --- Images from cluster #29 ---
+s18_5.pgm
+
+ --- Images from cluster #30 ---
+s22_2.pgm
+
+ --- Images from cluster #31 ---
+s10_2.pgm
+
+ --- Images from cluster #32 ---
+s29_3.pgm
+s23_5.pgm
+s39_4.pgm
+s29_2.pgm
+s28_5.pgm
+s15_4.pgm
+s6_3.pgm
+s37_1.pgm
+s23_1.pgm
+s32_1.pgm
+s30_1.pgm
+s2_1.pgm
+s6_1.pgm
+s32_3.pgm
+s4_1.pgm
+s9_4.pgm
+s31_1.pgm
+s22_5.pgm
+s17_1.pgm
+s28_2.pgm
+s20_1.pgm
+s16_5.pgm
+s32_2.pgm
+s2_3.pgm
+s15_1.pgm
+s35_5.pgm
+s35_3.pgm
+s11_5.pgm
+s1_2.pgm
+s12_3.pgm
+s22_4.pgm
+s37_2.pgm
+s14_4.pgm
+s29_5.pgm
+s9_1.pgm
+s16_2.pgm
+s39_1.pgm
+s18_3.pgm
+s40_2.pgm
+
+ --- Images from cluster #33 ---
+s11_4.pgm
+
+ --- Images from cluster #34 ---
+s6_4.pgm
+s30_5.pgm
+
+ --- Images from cluster #35 ---
+s6_2.pgm
+s17_2.pgm
+s37_4.pgm
+
+ --- Images from cluster #36 ---
+s18_2.pgm
+s21_5.pgm
+s31_2.pgm
+
+ --- Images from cluster #37 ---
+s33_1.pgm
+
+ --- Images from cluster #38 ---
+s31_5.pgm
+s31_4.pgm
+s31_3.pgm
+Building the similarity matrix using KAZE algorithm for 198 images
+sm.shape[0] here :  198    198 
+
+Done - total calculation time: 9450 seconds
+
+Performance metrics for Spectral Clustering
+Number of clusters: 39
+Silhouette coefficient: -0.16
+Completeness score: -0.00
+Homogeneity score: 1.00
+
+Performance metrics for Affinity Propagation Clustering
+Number of clusters: 7
+Silhouette coefficient: -0.06
+Completeness score: 0.00
+Homogeneity score: 1.00
+
+Selected Affinity Propagation for the labeling results
+printing the final sc.labels_ [ 1 30 10 19 19  4  4 37  4  4  4  4 27  4 14 36  9 18  4 18  4  4  4 23 29
+  1 18 28  6  7  7  4  7  4  7  7  7  1  2 33 18 31 13 18 29  6  5  4 18 18
+ 29  5 18 18  9  9  1  4 29  1 29 23  1 19  5  4  9  1 15  9  9  1  7 13  9
+  7  9 34 13  9 13 13  1  9  2  1 13  1  1  1 12  4 18 13  5  9  4  4 25 18
+ 29 13 24  9 20  5  2  2 13  9  1  7 36 13  4  6  5 18  1  1  4  8  1  9  1
+ 25  4 25 23  6  6  6 25  6 22  4 18  1 36 25  4 36 38 23 22  7 22 22  7 22
+ 23  7 22 29  2  9  1  1 36  1  1 18 18 18 22  1  0 26 11  4  7 36  6 23  4
+  4  4 36 17 17  4  4  3 18 16 29  3  3  3  3 35  4 13 21  3 32 22  3]
+type =  <class 'numpy.ndarray'>
+
+ --- Images from cluster #0 ---
+s14_3.pgm
+
+ --- Images from cluster #1 ---
+s13_5.pgm
+s13_1.pgm
+s37_1.pgm
+s7_2.pgm
+s32_1.pgm
+s27_2.pgm
+s34_3.pgm
+s34_4.pgm
+s20_3.pgm
+s24_2.pgm
+s19_4.pgm
+s13_2.pgm
+s31_5.pgm
+s27_5.pgm
+s20_1.pgm
+s31_4.pgm
+s32_2.pgm
+s9_3.pgm
+s5_3.pgm
+s37_2.pgm
+s21_1.pgm
+s27_3.pgm
+s5_2.pgm
+s9_2.pgm
+
+ --- Images from cluster #2 ---
+s22_2.pgm
+s22_1.pgm
+s22_3.pgm
+s22_5.pgm
+s22_4.pgm
+
+ --- Images from cluster #3 ---
+s4_3.pgm
+s18_3.pgm
+s31_3.pgm
+s31_2.pgm
+s7_4.pgm
+s30_3.pgm
+s18_4.pgm
+
+ --- Images from cluster #4 ---
+s11_2.pgm
+s35_4.pgm
+s38_3.pgm
+s16_4.pgm
+s2_5.pgm
+s1_1.pgm
+s10_3.pgm
+s1_5.pgm
+s38_4.pgm
+s14_5.pgm
+s3_3.pgm
+s40_1.pgm
+s19_3.pgm
+s39_3.pgm
+s11_3.pgm
+s21_4.pgm
+s28_3.pgm
+s24_3.pgm
+s7_5.pgm
+s28_2.pgm
+s16_5.pgm
+s36_4.pgm
+s11_5.pgm
+s19_1.pgm
+s8_5.pgm
+s28_4.pgm
+s27_4.pgm
+s8_2.pgm
+s25_3.pgm
+s16_2.pgm
+s40_2.pgm
+
+ --- Images from cluster #5 ---
+s40_5.pgm
+s20_5.pgm
+s38_1.pgm
+s38_5.pgm
+s15_5.pgm
+s38_2.pgm
+
+ --- Images from cluster #6 ---
+s21_3.pgm
+s21_2.pgm
+s36_1.pgm
+s28_1.pgm
+s35_5.pgm
+s35_3.pgm
+s11_1.pgm
+s32_4.pgm
+
+ --- Images from cluster #7 ---
+s14_2.pgm
+s16_3.pgm
+s35_1.pgm
+s16_1.pgm
+s6_3.pgm
+s4_5.pgm
+s20_2.pgm
+s33_2.pgm
+s40_3.pgm
+s18_5.pgm
+s6_2.pgm
+s12_3.pgm
+s25_1.pgm
+
+ --- Images from cluster #8 ---
+s23_4.pgm
+
+ --- Images from cluster #9 ---
+s2_2.pgm
+s7_3.pgm
+s19_2.pgm
+s36_3.pgm
+s2_1.pgm
+s2_4.pgm
+s32_5.pgm
+s25_5.pgm
+s32_3.pgm
+s7_1.pgm
+s11_4.pgm
+s34_2.pgm
+s13_4.pgm
+s2_3.pgm
+s19_5.pgm
+
+ --- Images from cluster #10 ---
+s23_5.pgm
+
+ --- Images from cluster #11 ---
+s23_2.pgm
+
+ --- Images from cluster #12 ---
+s26_4.pgm
+
+ --- Images from cluster #13 ---
+s1_4.pgm
+s4_2.pgm
+s6_1.pgm
+s18_1.pgm
+s21_5.pgm
+s4_1.pgm
+s37_5.pgm
+s31_1.pgm
+s26_3.pgm
+s4_4.pgm
+s34_1.pgm
+
+ --- Images from cluster #14 ---
+s29_2.pgm
+
+ --- Images from cluster #15 ---
+s3_4.pgm
+
+ --- Images from cluster #16 ---
+s39_1.pgm
+
+ --- Images from cluster #17 ---
+s9_1.pgm
+s9_5.pgm
+
+ --- Images from cluster #18 ---
+s12_2.pgm
+s28_5.pgm
+s10_5.pgm
+s10_1.pgm
+s5_1.pgm
+s12_1.pgm
+s23_1.pgm
+s10_4.pgm
+s3_1.pgm
+s9_4.pgm
+s29_4.pgm
+s5_5.pgm
+s3_5.pgm
+s14_4.pgm
+s12_4.pgm
+s8_3.pgm
+s12_5.pgm
+
+ --- Images from cluster #19 ---
+s20_4.pgm
+s40_4.pgm
+s36_5.pgm
+
+ --- Images from cluster #20 ---
+s29_1.pgm
+
+ --- Images from cluster #21 ---
+s37_4.pgm
+
+ --- Images from cluster #22 ---
+s34_5.pgm
+s27_1.pgm
+s30_5.pgm
+s1_2.pgm
+s10_2.pgm
+s15_2.pgm
+s39_5.pgm
+s30_4.pgm
+
+ --- Images from cluster #23 ---
+s15_4.pgm
+s18_2.pgm
+s15_1.pgm
+s15_3.pgm
+s8_4.pgm
+s25_2.pgm
+
+ --- Images from cluster #24 ---
+s23_3.pgm
+
+ --- Images from cluster #25 ---
+s33_1.pgm
+s6_4.pgm
+s6_5.pgm
+s33_5.pgm
+s33_3.pgm
+
+ --- Images from cluster #26 ---
+s26_5.pgm
+
+ --- Images from cluster #27 ---
+s3_2.pgm
+
+ --- Images from cluster #28 ---
+s13_3.pgm
+
+ --- Images from cluster #29 ---
+s24_4.pgm
+s14_1.pgm
+s24_1.pgm
+s30_2.pgm
+s30_1.pgm
+s1_3.pgm
+s24_5.pgm
+s5_4.pgm
+
+ --- Images from cluster #30 ---
+s29_3.pgm
+
+ --- Images from cluster #31 ---
+s26_1.pgm
+
+ --- Images from cluster #32 ---
+s25_4.pgm
+
+ --- Images from cluster #33 ---
+s39_2.pgm
+
+ --- Images from cluster #34 ---
+s37_3.pgm
+
+ --- Images from cluster #35 ---
+s36_2.pgm
+
+ --- Images from cluster #36 ---
+s17_5.pgm
+s17_1.pgm
+s17_4.pgm
+s26_2.pgm
+s17_3.pgm
+s17_2.pgm
+s29_5.pgm
+
+ --- Images from cluster #37 ---
+s39_4.pgm
+
+ --- Images from cluster #38 ---
+s8_1.pgm
+Building the similarity matrix using AKAZE algorithm for 198 images
+sm.shape[0] here :  198    198 
+
+Done - total calculation time: 1819 seconds
+
+Performance metrics for Spectral Clustering
+Number of clusters: 39
+Silhouette coefficient: -0.27
+Completeness score: 0.00
+Homogeneity score: 1.00
+
+Performance metrics for Affinity Propagation Clustering
+Number of clusters: 10
+Silhouette coefficient: -0.13
+Completeness score: -0.00
+Homogeneity score: 1.00
+
+Selected Affinity Propagation for the labeling results
+printing the final sc.labels_ [11 28 17 20  5 11 11 13  4 11 11 11  7 11 11 11 20 11  9 23  4 23 22 11 11
+ 20 23 20  4 23 23  4 23 23 23 23 23 23 23 26 11 35  3 11 23 23 23 23 11 23
+ 23 20  9 32  8  8 20 23  8 30  8  4 20 20  4 20  1 30 33 30 30  3  9  9  1
+  1 25 11  8  1  8  1  9 11 11  9 20  9  8 20 31 20  8 11 20 20  0 11 20 20
+ 11 11 16 11 14 20 11 23  9  6  2 27 11 29 23  2 20 11  2 20 20 34  3 20  8
+ 20  3  8 30 11  3 30 20 11  8 12 19 18  8 11 11 38 11 20  8 20  8 10  8  8
+ 11 11 20 30 21 23  3  3  3 11  3  1 11  8  3  8 20  8 20 11  3  3  9  3 11
+ 11 15 10 11  8  3 11  4 11 24 11 11 37  9 36 11 11  8 20 11 20  8 11]
+type =  <class 'numpy.ndarray'>
+
+ --- Images from cluster #0 ---
+s24_3.pgm
+
+ --- Images from cluster #1 ---
+s36_3.pgm
+s32_5.pgm
+s33_2.pgm
+s32_3.pgm
+s21_5.pgm
+s14_4.pgm
+
+ --- Images from cluster #2 ---
+s27_5.pgm
+s36_1.pgm
+s20_1.pgm
+
+ --- Images from cluster #3 ---
+s1_4.pgm
+s34_4.pgm
+s32_2.pgm
+s36_4.pgm
+s35_5.pgm
+s37_2.pgm
+s21_1.pgm
+s17_3.pgm
+s5_2.pgm
+s39_5.pgm
+s25_1.pgm
+s17_2.pgm
+s25_2.pgm
+s25_3.pgm
+
+ --- Images from cluster #4 ---
+s38_3.pgm
+s38_4.pgm
+s21_3.pgm
+s40_1.pgm
+s18_2.pgm
+s38_1.pgm
+s4_3.pgm
+
+ --- Images from cluster #5 ---
+s40_4.pgm
+
+ --- Images from cluster #6 ---
+s13_4.pgm
+
+ --- Images from cluster #7 ---
+s3_2.pgm
+
+ --- Images from cluster #8 ---
+s7_3.pgm
+s19_2.pgm
+s30_2.pgm
+s30_1.pgm
+s6_1.pgm
+s18_1.pgm
+s13_2.pgm
+s9_4.pgm
+s9_3.pgm
+s6_5.pgm
+s34_5.pgm
+s17_4.pgm
+s27_1.pgm
+s30_5.pgm
+s6_2.pgm
+s10_2.pgm
+s8_3.pgm
+s9_2.pgm
+s26_5.pgm
+s9_5.pgm
+s34_1.pgm
+s30_4.pgm
+
+ --- Images from cluster #9 ---
+s1_5.pgm
+s10_4.pgm
+s20_2.pgm
+s4_2.pgm
+s20_3.pgm
+s24_2.pgm
+s19_4.pgm
+s26_3.pgm
+s32_4.pgm
+s31_2.pgm
+
+ --- Images from cluster #10 ---
+s1_2.pgm
+s29_5.pgm
+
+ --- Images from cluster #11 ---
+s13_5.pgm
+s11_2.pgm
+s35_4.pgm
+s16_4.pgm
+s2_5.pgm
+s1_1.pgm
+s10_3.pgm
+s29_2.pgm
+s17_5.pgm
+s12_2.pgm
+s15_4.pgm
+s24_4.pgm
+s10_1.pgm
+s5_1.pgm
+s12_1.pgm
+s37_3.pgm
+s7_1.pgm
+s22_1.pgm
+s37_5.pgm
+s7_5.pgm
+s1_3.pgm
+s31_1.pgm
+s34_2.pgm
+s22_3.pgm
+s17_1.pgm
+s5_5.pgm
+s28_1.pgm
+s11_1.pgm
+s33_3.pgm
+s19_1.pgm
+s8_1.pgm
+s8_4.pgm
+s12_3.pgm
+s27_3.pgm
+s12_4.pgm
+s8_5.pgm
+s28_4.pgm
+s27_4.pgm
+s9_1.pgm
+s16_2.pgm
+s12_5.pgm
+s5_4.pgm
+s18_3.pgm
+s36_2.pgm
+s40_2.pgm
+s30_3.pgm
+s18_4.pgm
+
+ --- Images from cluster #12 ---
+s11_5.pgm
+
+ --- Images from cluster #13 ---
+s39_4.pgm
+
+ --- Images from cluster #14 ---
+s29_1.pgm
+
+ --- Images from cluster #15 ---
+s8_2.pgm
+
+ --- Images from cluster #16 ---
+s23_3.pgm
+
+ --- Images from cluster #17 ---
+s23_5.pgm
+
+ --- Images from cluster #18 ---
+s5_3.pgm
+
+ --- Images from cluster #19 ---
+s3_5.pgm
+
+ --- Images from cluster #20 ---
+s20_4.pgm
+s2_2.pgm
+s13_1.pgm
+s13_3.pgm
+s20_5.pgm
+s7_2.pgm
+s27_2.pgm
+s36_5.pgm
+s21_4.pgm
+s4_1.pgm
+s31_5.pgm
+s28_3.pgm
+s38_5.pgm
+s11_4.pgm
+s33_1.pgm
+s29_4.pgm
+s15_5.pgm
+s38_2.pgm
+s31_4.pgm
+s16_5.pgm
+s2_3.pgm
+s6_4.pgm
+s33_5.pgm
+s15_3.pgm
+s18_5.pgm
+s15_2.pgm
+s14_3.pgm
+s23_2.pgm
+s37_4.pgm
+s25_4.pgm
+
+ --- Images from cluster #21 ---
+s22_4.pgm
+
+ --- Images from cluster #22 ---
+s3_3.pgm
+
+ --- Images from cluster #23 ---
+s28_5.pgm
+s14_5.pgm
+s10_5.pgm
+s14_2.pgm
+s16_3.pgm
+s35_1.pgm
+s19_3.pgm
+s16_1.pgm
+s6_3.pgm
+s4_5.pgm
+s37_1.pgm
+s22_2.pgm
+s14_1.pgm
+s21_2.pgm
+s40_5.pgm
+s39_3.pgm
+s23_1.pgm
+s24_1.pgm
+s11_3.pgm
+s22_5.pgm
+s28_2.pgm
+s19_5.pgm
+
+ --- Images from cluster #24 ---
+s39_1.pgm
+
+ --- Images from cluster #25 ---
+s25_5.pgm
+
+ --- Images from cluster #26 ---
+s39_2.pgm
+
+ --- Images from cluster #27 ---
+s40_3.pgm
+
+ --- Images from cluster #28 ---
+s29_3.pgm
+
+ --- Images from cluster #29 ---
+s4_4.pgm
+
+ --- Images from cluster #30 ---
+s32_1.pgm
+s34_3.pgm
+s2_1.pgm
+s2_4.pgm
+s15_1.pgm
+s35_3.pgm
+s24_5.pgm
+
+ --- Images from cluster #31 ---
+s26_4.pgm
+
+ --- Images from cluster #32 ---
+s3_1.pgm
+
+ --- Images from cluster #33 ---
+s3_4.pgm
+
+ --- Images from cluster #34 ---
+s23_4.pgm
+
+ --- Images from cluster #35 ---
+s26_1.pgm
+
+ --- Images from cluster #36 ---
+s7_4.pgm
+
+ --- Images from cluster #37 ---
+s31_3.pgm
+
+ --- Images from cluster #38 ---
+s26_2.pgm
+Building the similarity matrix using SIFT algorithm for 198 images
+sm.shape[0] here :  198    198 
+
+Done - total calculation time: 2042 seconds
+
+Performance metrics for Spectral Clustering
+Number of clusters: 39
+Silhouette coefficient: -0.91
+Completeness score: -0.00
+Homogeneity score: 1.00
+
+Performance metrics for Affinity Propagation Clustering
+Number of clusters: 9
+Silhouette coefficient: -0.45
+Completeness score: 0.00
+Homogeneity score: 1.00
+
+Selected Affinity Propagation for the labeling results
+printing the final sc.labels_ [ 8  8 31 17 24  2 17 13 28 36 14 36  1 17  8 28 12 25  5 36 21  2  1 21 17
+ 38  8 27 36  8 21  6  2 12 10  8 27 10  2 22 32  3  9 17  2  9 27 27 31  8
+ 17 13 21  1 22 20  4 22 15 10  8 13 22  4 24 38 11  9  9 14 12 24 29 20 12
+ 22 24 15  8 12  6 38 22 22  4  4  4 24  4 21 10 33  4 16 28 16 18 24  8 15
+ 21 15 16  5 17 18 24 13 24  4 11  8 26 27 11 11 28  5 15 13 11  3  5 14 23
+ 11 18  1  4 11  2 11 29 24 16 22 36  8 35 29 20 36  5  4 17 11 27 13  7 32
+  9 25 18 10 37 20 16 19 35 22 31 30  8  5 34  9 22 16 11  5  9  8  9  0  2
+ 20  5 13 23  9  4 29 22 25 13  9 31 10 17 11  4 31 17 17  8  8  5  7]
+type =  <class 'numpy.ndarray'>
+
+ --- Images from cluster #0 ---
+s25_2.pgm
+
+ --- Images from cluster #1 ---
+s3_2.pgm
+s3_3.pgm
+s3_1.pgm
+s6_5.pgm
+
+ --- Images from cluster #2 ---
+s11_2.pgm
+s14_5.pgm
+s35_1.pgm
+s22_2.pgm
+s14_1.pgm
+s35_5.pgm
+s28_4.pgm
+
+ --- Images from cluster #3 ---
+s26_1.pgm
+s23_4.pgm
+
+ --- Images from cluster #4 ---
+s7_2.pgm
+s36_5.pgm
+s22_1.pgm
+s24_2.pgm
+s4_1.pgm
+s13_2.pgm
+s9_4.pgm
+s13_4.pgm
+s15_1.pgm
+s15_3.pgm
+s25_3.pgm
+s36_2.pgm
+
+ --- Images from cluster #5 ---
+s1_5.pgm
+s34_2.pgm
+s5_5.pgm
+s32_2.pgm
+s8_1.pgm
+s8_3.pgm
+s8_5.pgm
+s8_2.pgm
+s30_4.pgm
+
+ --- Images from cluster #6 ---
+s40_1.pgm
+s18_1.pgm
+
+ --- Images from cluster #7 ---
+s6_2.pgm
+s18_4.pgm
+
+ --- Images from cluster #8 ---
+s13_5.pgm
+s29_3.pgm
+s29_2.pgm
+s10_5.pgm
+s14_2.pgm
+s6_3.pgm
+s23_1.pgm
+s30_1.pgm
+s6_1.pgm
+s33_1.pgm
+s40_3.pgm
+s5_3.pgm
+s12_4.pgm
+s17_2.pgm
+s30_3.pgm
+s25_4.pgm
+
+ --- Images from cluster #9 ---
+s1_4.pgm
+s21_2.pgm
+s34_3.pgm
+s3_4.pgm
+s8_4.pgm
+s9_2.pgm
+s25_1.pgm
+s32_4.pgm
+s9_5.pgm
+s5_4.pgm
+
+ --- Images from cluster #10 ---
+s16_1.pgm
+s37_1.pgm
+s32_1.pgm
+s26_4.pgm
+s24_5.pgm
+s31_3.pgm
+
+ --- Images from cluster #11 ---
+s36_3.pgm
+s27_5.pgm
+s28_2.pgm
+s36_1.pgm
+s16_5.pgm
+s6_4.pgm
+s28_1.pgm
+s35_3.pgm
+s18_5.pgm
+s23_2.pgm
+s7_4.pgm
+
+ --- Images from cluster #12 ---
+s2_2.pgm
+s19_3.pgm
+s2_4.pgm
+s32_5.pgm
+s32_3.pgm
+
+ --- Images from cluster #13 ---
+s39_4.pgm
+s20_5.pgm
+s18_2.pgm
+s22_5.pgm
+s31_4.pgm
+s1_2.pgm
+s29_5.pgm
+s39_1.pgm
+
+ --- Images from cluster #14 ---
+s2_5.pgm
+s2_1.pgm
+s2_3.pgm
+
+ --- Images from cluster #15 ---
+s30_2.pgm
+s37_3.pgm
+s29_4.pgm
+s31_1.pgm
+s20_1.pgm
+
+ --- Images from cluster #16 ---
+s37_5.pgm
+s11_4.pgm
+s23_3.pgm
+s34_5.pgm
+s37_2.pgm
+s26_5.pgm
+
+ --- Images from cluster #17 ---
+s20_4.pgm
+s35_4.pgm
+s10_3.pgm
+s24_4.pgm
+s5_1.pgm
+s24_1.pgm
+s29_1.pgm
+s27_1.pgm
+s31_2.pgm
+s34_1.pgm
+s37_4.pgm
+
+ --- Images from cluster #18 ---
+s24_3.pgm
+s15_5.pgm
+s36_4.pgm
+s15_2.pgm
+
+ --- Images from cluster #19 ---
+s21_1.pgm
+
+ --- Images from cluster #20 ---
+s19_2.pgm
+s4_2.pgm
+s19_1.pgm
+s19_5.pgm
+s27_4.pgm
+
+ --- Images from cluster #21 ---
+s38_4.pgm
+s15_4.pgm
+s16_3.pgm
+s10_4.pgm
+s31_5.pgm
+s1_3.pgm
+
+ --- Images from cluster #22 ---
+s39_2.pgm
+s7_3.pgm
+s11_3.pgm
+s27_2.pgm
+s33_2.pgm
+s20_3.pgm
+s7_1.pgm
+s11_5.pgm
+s27_3.pgm
+s14_3.pgm
+s4_3.pgm
+
+ --- Images from cluster #23 ---
+s9_3.pgm
+s9_1.pgm
+
+ --- Images from cluster #24 ---
+s40_4.pgm
+s38_1.pgm
+s34_4.pgm
+s25_5.pgm
+s19_4.pgm
+s7_5.pgm
+s22_3.pgm
+s26_3.pgm
+s11_1.pgm
+
+ --- Images from cluster #25 ---
+s12_2.pgm
+s12_3.pgm
+s12_5.pgm
+
+ --- Images from cluster #26 ---
+s17_1.pgm
+
+ --- Images from cluster #27 ---
+s13_3.pgm
+s4_5.pgm
+s40_5.pgm
+s39_3.pgm
+s4_4.pgm
+s30_5.pgm
+
+ --- Images from cluster #28 ---
+s38_3.pgm
+s17_5.pgm
+s38_5.pgm
+s38_2.pgm
+
+ --- Images from cluster #29 ---
+s20_2.pgm
+s33_5.pgm
+s33_3.pgm
+s16_2.pgm
+
+ --- Images from cluster #30 ---
+s14_4.pgm
+
+ --- Images from cluster #31 ---
+s23_5.pgm
+s12_1.pgm
+s5_2.pgm
+s18_3.pgm
+s40_2.pgm
+
+ --- Images from cluster #32 ---
+s10_1.pgm
+s10_2.pgm
+
+ --- Images from cluster #33 ---
+s28_3.pgm
+
+ --- Images from cluster #34 ---
+s39_5.pgm
+
+ --- Images from cluster #35 ---
+s17_4.pgm
+s17_3.pgm
+
+ --- Images from cluster #36 ---
+s16_4.pgm
+s1_1.pgm
+s28_5.pgm
+s21_3.pgm
+s3_5.pgm
+s26_2.pgm
+
+ --- Images from cluster #37 ---
+s22_4.pgm
+
+ --- Images from cluster #38 ---
+s13_1.pgm
+s21_4.pgm
+s21_5.pgm
+[ INFO:0] Initialize OpenCL runtime...
